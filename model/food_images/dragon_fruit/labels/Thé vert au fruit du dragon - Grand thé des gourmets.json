@@ -1,0 +1,15 @@
+{
+    "product_name": "Th\u00e9 vert au fruit du dragon - Grand th\u00e9 des gourmets",
+    "brands": "th\u00e9s de la pagode",
+    "product_category": "dragon fruit",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {
+        "fruits-vegetables-legumes-estimate-from-ingredients_100g": 0,
+        "fruits-vegetables-legumes-estimate-from-ingredients_serving": 0,
+        "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+        "fruits-vegetables-nuts-estimate-from-ingredients_serving": 0
+    },
+    "image_path": "food_images/dragon_fruit/images/Th\u00e9 vert au fruit du dragon - Grand th\u00e9 des gourmets.jpg",
+    "nutri_score": "unknown"
+}

@@ -1,0 +1,20 @@
+{
+    "product_name": "Bananes BIO",
+    "brands": "Intermarch\u00e9, Mon March\u00e9 plaisir",
+    "product_category": "banana+fruit",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {
+        "fruits-vegetables-legumes-estimate-from-ingredients_100g": 100,
+        "fruits-vegetables-legumes-estimate-from-ingredients_serving": 100,
+        "fruits-vegetables-nuts-estimate-from-ingredients_100g": 100,
+        "fruits-vegetables-nuts-estimate-from-ingredients_serving": 100,
+        "nova-group": 1,
+        "nova-group_100g": 1,
+        "nova-group_serving": 1,
+        "nutrition-score-fr": 0,
+        "nutrition-score-fr_100g": 0
+    },
+    "image_path": "food_images/banana/images/Bananes BIO.jpg",
+    "nutri_score": "a"
+}

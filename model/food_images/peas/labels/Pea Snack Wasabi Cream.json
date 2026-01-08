@@ -1,0 +1,20 @@
+{
+    "product_name": "Pea Snack Wasabi Cream",
+    "brands": "Zweifel",
+    "product_category": "+Wasabi+peas",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {
+        "fruits-vegetables-legumes-estimate-from-ingredients_100g": 0.71075439453125,
+        "fruits-vegetables-legumes-estimate-from-ingredients_serving": 0.71075439453125,
+        "fruits-vegetables-nuts-estimate-from-ingredients_100g": 21.9633483886719,
+        "fruits-vegetables-nuts-estimate-from-ingredients_serving": 21.9633483886719,
+        "nova-group": 4,
+        "nova-group_100g": 4,
+        "nova-group_serving": 4,
+        "nutrition-score-fr": 8,
+        "nutrition-score-fr_100g": 8
+    },
+    "image_path": "food_images/wasabi_peas/images/Pea Snack Wasabi Cream.jpg",
+    "nutri_score": "c"
+}

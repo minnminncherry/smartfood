@@ -1,0 +1,15 @@
+{
+    "product_name": "Guava Nectar",
+    "brands": null,
+    "product_category": "guava fruit",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {
+        "fruits-vegetables-legumes-estimate-from-ingredients_100g": 25,
+        "fruits-vegetables-legumes-estimate-from-ingredients_serving": 25,
+        "fruits-vegetables-nuts-estimate-from-ingredients_100g": 25,
+        "fruits-vegetables-nuts-estimate-from-ingredients_serving": 25
+    },
+    "image_path": "food_images/guava/images/Guava Nectar.jpg",
+    "nutri_score": "unknown"
+}

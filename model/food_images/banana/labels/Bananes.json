@@ -1,0 +1,10 @@
+{
+    "product_name": "Bananes",
+    "brands": "",
+    "product_category": "banana+fruit",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {},
+    "image_path": "food_images/banana/images/Bananes.jpg",
+    "nutri_score": "unknown"
+}

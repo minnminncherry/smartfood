@@ -1,0 +1,18 @@
+{
+    "product_name": "infusi fruttosi papaya e arancia",
+    "brands": "Bonomelli",
+    "product_category": "papaya+fruit",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {
+        "fruits-vegetables-legumes-estimate-from-ingredients_100g": 35.8983333333333,
+        "fruits-vegetables-legumes-estimate-from-ingredients_serving": 35.8983333333333,
+        "fruits-vegetables-nuts-estimate-from-ingredients_100g": 35.8983333333333,
+        "fruits-vegetables-nuts-estimate-from-ingredients_serving": 35.8983333333333,
+        "nova-group": 4,
+        "nova-group_100g": 4,
+        "nova-group_serving": 4
+    },
+    "image_path": "food_images/papaya/images/infusi fruttosi papaya e arancia.jpg",
+    "nutri_score": "unknown"
+}
