@@ -1,0 +1,15 @@
+{
+    "product_name": "Pomelo rouge",
+    "brands": "La compagnie des fruits m\u00fbrs",
+    "product_category": "Pomelo+fruit",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {
+        "fruits-vegetables-legumes-estimate-from-ingredients_100g": 62.5,
+        "fruits-vegetables-legumes-estimate-from-ingredients_serving": 62.5,
+        "fruits-vegetables-nuts-estimate-from-ingredients_100g": 62.5,
+        "fruits-vegetables-nuts-estimate-from-ingredients_serving": 62.5
+    },
+    "image_path": "food_images/pomelo/images/Pomelo rouge.jpg",
+    "nutri_score": "unknown"
+}

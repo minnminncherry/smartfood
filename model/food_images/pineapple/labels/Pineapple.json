@@ -1,0 +1,10 @@
+{
+    "product_name": "Pineapple",
+    "brands": null,
+    "product_category": "pineapple+fresh+fruit",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {},
+    "image_path": "food_images/pineapple/images/Pineapple.jpg",
+    "nutri_score": "unknown"
+}

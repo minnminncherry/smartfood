@@ -1,0 +1,18 @@
+{
+    "product_name": "Mango",
+    "brands": "",
+    "product_category": "mangos+fresh+fruit",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {
+        "fruits-vegetables-legumes-estimate-from-ingredients_100g": 100,
+        "fruits-vegetables-legumes-estimate-from-ingredients_serving": 100,
+        "fruits-vegetables-nuts-estimate-from-ingredients_100g": 100,
+        "fruits-vegetables-nuts-estimate-from-ingredients_serving": 100,
+        "nova-group": 1,
+        "nova-group_100g": 1,
+        "nova-group_serving": 1
+    },
+    "image_path": "food_images/mangos/images/Mango.jpg",
+    "nutri_score": "unknown"
+}

@@ -1,0 +1,10 @@
+{
+    "product_name": "Pomelo",
+    "brands": "McGarlet",
+    "product_category": "Pomelo+fruit",
+    "meal_type": "snack",
+    "gluten_free": false,
+    "nutriments": {},
+    "image_path": "food_images/pomelo/images/Pomelo.jpg",
+    "nutri_score": "unknown"
+}
